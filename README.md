@@ -28,7 +28,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
- The whole Project wasn't tough for me, so i didn't really waste time on it and i didn't bother about planning the project.
 
 ### Built with
 
